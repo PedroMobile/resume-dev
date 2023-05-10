@@ -2,9 +2,10 @@
 
 ## Contact Detail
 
-* **Linkedin:** https://www.linkedin.com/in/pedro-h-21190064/
+* **Linkedin:** https://www.linkedin.com/in/pedro-h-21190064
 * **Skype:** pedro0102
 * **Email:** pedroknk@gmail.com
+* **Whatsapp:** +5585999399618
 * **Website:** https://github.com/PedroMobile/resume-dev
 
 ## Education
@@ -14,16 +15,40 @@
 
 # Work Experience
 
-### Senior iOS Developer (2021 - 2021)
-#### [GOK.digital](https://gok.digital/), Fortaleza/São Paulo, BR
+### Senior iOS Developer (jan-2023)
+#### [Rethink](https://vortigo.digital/), Belo Horizonte - MG, BR
 
 * Developing and maintaining iOS applications
 * Shipped code on projects with an agile, test-driven development
 * Extensive experience with Swift
 * Using Git for version control, revisions
 
-### Senior Mobile Developer (2020 - 2021)
-#### [GVP.digital](https://www.gvp.com.br/), Fortaleza/São Paulo, BR
+### Senior iOS Developer (mar-2022 - dez-2022)
+#### [Vortigo](https://vortigo.digital/), Porto Alegre - RS, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Swift
+* Using Git for version control, revisions
+
+### Senior iOS Developer (set-2021 - mar-2022)
+#### [XP Inc](https://www.xpinc.com/), São Paulo, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Swift
+* Using Git for version control, revisions
+
+### Senior iOS Developer (jan-2021 - jul-2021)
+#### [GOK.digital](https://gok.digital/), São Paulo, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Swift
+* Using Git for version control, revisions
+
+### Senior Mobile Developer (oct-2020 - dez-2021)
+#### [GVP.digital](https://www.gvp.com.br/), São Paulo, BR
 
 * Developing and maintaining iOS, Android applications
 * Shipped code on projects with an agile, test-driven development
@@ -32,7 +57,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Senior Mobile Developer (2018 - 2020)
+### Senior Mobile Developer (jan-2018 - oct-2020)
 #### [Photozig](https://www.photozig.com/), Fortaleza/California, BR/USA
 
 * Developing and maintaining iOS, Android applications
@@ -42,7 +67,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Senior Mobile Developer/Architect (2015 - 2018)
+### Senior Mobile Developer/Architect (jun-2015 - dez-2018)
 #### [Joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
 
 * Developing and maintaining iOS, Android applications
@@ -52,7 +77,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Lead & Senior Mobile Developer (2013 - 2016)
+### Lead & Senior Mobile Developer (jan-2013 - jun-2015)
 #### [Index Digital](http://www.indexdigital.com.br), Fortaleza, CE
 
 * Developing and maintaining iOS, Android applications
@@ -62,7 +87,7 @@
 * JSON, XML
 * Using Git for version control, revisions
 
-### Senior Developer (2011 - 2013)
+### Senior Developer (jan-2011 - jan-2013)
 #### [101º Macaco](https://vimeo.com/gomonkey), Fortaleza, CE
 
 * Developing and maintaining iOS, Android applications, Games realtime, unity and arduino
@@ -70,7 +95,7 @@
 * Twitter, Facebook, Instagram API's
 * JSON, XML
 
-### Senior Web Developer (2010 - 2011)
+### Senior Web Developer (jan-2010 - jan-2011)
 #### [333 Propaganda](http://333comunicacao.com.br), Fortaleza, CE
 
 * Developing web applications, flash applications, games, arduino and unity
@@ -106,6 +131,8 @@
 * iOS
 * Android
 * Kotlin
+* Flutter
+* React Native
 * Objective-C
 * Swift
 * SwiftUI
@@ -113,10 +140,13 @@
 * XcodeGen
 * ViewCode
 * GitHub
-* Rx
+* CI/CD
+* RxSwift
+* Combine
 * Clean Architecture
 * Retrofit2
 * Dagger 
+* BDD
 * Material Design
 * Android Architecture Components
 * CI/CD
@@ -138,11 +168,42 @@
 * VIPER
 * CLEAN
 * MVC
+* GraphQL
+* REST
+* Figma
+* Jira
+* Scrum
+* Unit Tests
+* Snapshot Tests
 
 I am experienced with the following environments and software:
 SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
 
 # Projects
+
+## [XP Investimentos](https://www.xpi.com.br/)
+Developed XP Investimentos, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/xp-investimentos/id1300713021)
+
+## [Porto: seguro, cartão, crédito](https://www.portoseguro.com.br/)
+Developed Porto, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/porto-seguro-cart%C3%A3o-cr%C3%A9dito/id1511026277)
+
+## [Shopcoopera](https://www.shopcoopera.com.br/)
+Developed Shopcoopera, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/coopera/id1522048091)
+
+## [SuperDigital](https://superdigital.com.br/)
+Developed Super Digital, implemented lastest mobile technologies (native).
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/superdigital/id1175387636)
 
 ## [Uber Conta](https://www.uber.com/)
 Developed Uber Conta, implemented lastest mobile technologies (native).

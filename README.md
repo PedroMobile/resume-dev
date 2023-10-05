@@ -226,8 +226,8 @@ Developed Super Digital, implemented lastest mobile technologies (native).
 * [iOS](https://apps.apple.com/br/app/superdigital/id1175387636)
 
 ### Screenshots
-![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/75/2a/11/752a11fe-37d2-54eb-059a-411b4134ced2/4fac9b56-ab82-4717-a1b5-caf676662289_Primeira_Tela-_Apps_Store_6.5_pol_U005b1_U005d.png/300x0w.png)
-![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/a3/b9/77a3b985-e47a-3ed8-22f2-8c9662ec5c02/5206635a-9dd6-4dab-a209-53542527a3a6_Segunda_Tela_-_Apps_Store_6.5_pol_U005b1_U005d.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/75/2a/11/752a11fe-37d2-54eb-059a-411b4134ced2/4fac9b56-ab82-4717-a1b5-caf676662289_Primeira_Tela-_Apps_Store_6.5_pol_U005b1_U005d.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/a3/b9/77a3b985-e47a-3ed8-22f2-8c9662ec5c02/5206635a-9dd6-4dab-a209-53542527a3a6_Segunda_Tela_-_Apps_Store_6.5_pol_U005b1_U005d.png/150x0w.png)
 
 ## [Uber Conta](https://www.uber.com/)
 Developed Uber Conta, implemented lastest mobile technologies (native).
@@ -236,11 +236,11 @@ Developed Uber Conta, implemented lastest mobile technologies (native).
 * [iOS](https://apps.apple.com/br/app/uber-conta/id1550784531)
 
 ### Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/48/1e/e5481e80-d315-79fc-deda-3917c78e3deb/46268e87-0484-4787-a655-f41615d09a08_Artboard_1_-_1284x2778.jpg/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/73/0e/d2/730ed299-2ce2-3129-5343-3dd4b7fea1fa/762788b4-5c8d-422d-bf86-1d3ccc1442a2_1284x2778bb-1.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/be/8d/20be8d11-0ef5-8fa4-c0a4-32b29fd0c699/df8d8128-f8a5-4a2d-ad18-55d6a47d1680_Artboard_3_-_1284x2778.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/52/24/87522440-db69-e5f1-9aa4-b553e53c23d9/8ba3dfed-a499-431f-9e87-1cd0b0ffc3da_Artboard_4_-_1284x2778.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/a6/e8/11a6e86f-9f0b-6666-1a1c-384dad09a253/e92bcebc-c01b-4899-8066-e049f9c0888d_Artboard_5_-_1284x2778.png/150x0w.png)
 
 ## [Digio](https://www.digio.com.br/)
 Developed Digio, implemented lastest mobile technologies (native).

@@ -175,6 +175,13 @@ Developed Banco do Brasil, implemented lastest mobile technologies (react native
 ### Screenshots
 
 ![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/a9/c5/84a9c543-d610-7b38-294c-1b253b971048/b4e66d1d-ccb3-4a22-8bad-189219c4de5f_06_16_23_bancodobrasil_iOS65_01.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b5/70/5e/b5705eba-58e5-6a04-c032-2afc5ce6423f/7ddbd34a-9354-4275-b146-f64f9207e443_06_16_23_bancodobrasil_iOS65_02.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fa/47/03/fa470315-1408-da52-b30d-75030de3b058/387b459f-ec7e-4e6c-9613-5ff4b7ae2088_06_16_23_bancodobrasil_iOS65_03.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1d/a1/6b/1da16b33-2e8d-6781-4c34-1132fcabc194/41fad938-befb-49fc-9800-4b5d22809396_06_16_23_bancodobrasil_iOS65_04.png/300x0w.webp)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1d/a1/6b/1da16b33-2e8d-6781-4c34-1132fcabc194/41fad938-befb-49fc-9800-4b5d22809396_06_16_23_bancodobrasil_iOS65_05.png/300x0w.webp)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1d/a1/6b/1da16b33-2e8d-6781-4c34-1132fcabc194/41fad938-befb-49fc-9800-4b5d22809396_06_16_23_bancodobrasil_iOS65_06.png/300x0w.webp)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1d/a1/6b/1da16b33-2e8d-6781-4c34-1132fcabc194/41fad938-befb-49fc-9800-4b5d22809396_06_16_23_bancodobrasil_iOS65_07.png/300x0w.webp)
+
 
 ## [XP Investimentos](https://www.xpi.com.br/)
 Developed XP Investimentos, implemented lastest mobile technologies (native).

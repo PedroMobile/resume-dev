@@ -172,6 +172,10 @@ Developed Banco do Brasil, implemented lastest mobile technologies (react native
 ### Versions
 * [iOS](https://apps.apple.com/br/app/banco-do-brasil-abrir-conta/id330984271)
 
+### Screenshots
+
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/84/a9/c5/84a9c543-d610-7b38-294c-1b253b971048/b4e66d1d-ccb3-4a22-8bad-189219c4de5f_06_16_23_bancodobrasil_iOS65_01.png/300x0w.png)
+
 ## [XP Investimentos](https://www.xpi.com.br/)
 Developed XP Investimentos, implemented lastest mobile technologies (native).
 

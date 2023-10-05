@@ -214,7 +214,6 @@ Developed Shopcoopera, implemented lastest mobile technologies (native).
 
 ### Screenshots
 ![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/d3/65/e9d3655b-04b2-c8e8-ce97-2a87b098b088/c4e5daf0-7a57-455b-80fe-afc72b35382e_1_Coopera_iphone_6.7_1290x2796px1.jpg/150x0w.jpg)
-![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/d3/65/e9d3655b-04b2-c8e8-ce97-2a87b098b088/c4e5daf0-7a57-455b-80fe-afc72b35382e_1_Coopera_iphone_6.7_1290x2796px1.jpg/150x0w.webp)
 ![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/bb/62/7cbb6209-c1a2-6a28-ce6d-e4c7a13445f3/7ac1f57f-21d3-4674-aa1f-fa652e3335fd_1_Coopera_iphone_6.7_1290x2796px2.jpg/150x0w.jpg)
 ![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5f/89/06/5f8906be-1f64-3be1-70af-6cea58dff21b/bc45db2f-f0f5-4cba-9338-7319af9feef0_1_Coopera_iphone_6.7_1290x2796px3.jpg/150x0w.jpg)
 ![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b0/7e/0a/b07e0a63-5439-ad48-172c-aad81b7809c8/784a85c8-fa00-44a1-830c-f548174dfb27_1_Coopera_iphone_6.7_1290x2796px4.jpg/150x0w.jpg)
@@ -227,11 +226,8 @@ Developed Super Digital, implemented lastest mobile technologies (native).
 * [iOS](https://apps.apple.com/br/app/superdigital/id1175387636)
 
 ### Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/75/2a/11/752a11fe-37d2-54eb-059a-411b4134ced2/4fac9b56-ab82-4717-a1b5-caf676662289_Primeira_Tela-_Apps_Store_6.5_pol_U005b1_U005d.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/a3/b9/77a3b985-e47a-3ed8-22f2-8c9662ec5c02/5206635a-9dd6-4dab-a209-53542527a3a6_Segunda_Tela_-_Apps_Store_6.5_pol_U005b1_U005d.png/300x0w.png)
 
 ## [Uber Conta](https://www.uber.com/)
 Developed Uber Conta, implemented lastest mobile technologies (native).

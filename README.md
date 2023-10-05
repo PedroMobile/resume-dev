@@ -200,11 +200,11 @@ Developed Porto, implemented lastest mobile technologies (native).
 * [iOS](https://apps.apple.com/br/app/porto-seguro-cart%C3%A3o-cr%C3%A9dito/id1511026277)
 
 ### Screenshots
-![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/75/72/9075729b-1a08-48c3-221e-9ff5e9707e36/32a7e19f-ef30-4bca-9e1a-1daedd57d747_06_23_23_porto_iOS_65_01.png/300x0w.png)
-![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/b4/b7/26b4b72a-dd3b-5f38-770f-69c633ff1efc/d0a62028-0a61-4c17-afc9-feb00e71450e_06_23_23_porto_iOS_65_02.png/300x0w.png)
-![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/92/54/269254bb-d96f-a794-7475-0bab656a6b19/8788e0ea-6ff1-4e58-89f5-170d3b9e5bf6_06_23_23_porto_iOS_65_03.png/300x0w.png)
-![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/1e/0e/891e0e82-e841-6db6-19fd-2eb2a30361ae/d712d4d0-759d-4bcc-b4fc-0e9eb6a9538a_06_23_23_porto_iOS_65_04.png/300x0w.png)
-![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/9a/b2/819ab2db-fd99-5ce2-10eb-66b6c686979d/e5d7facb-203a-4d79-8d5b-f6976e6d542e_06_23_23_porto_iOS_65_05.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/75/72/9075729b-1a08-48c3-221e-9ff5e9707e36/32a7e19f-ef30-4bca-9e1a-1daedd57d747_06_23_23_porto_iOS_65_01.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/b4/b7/26b4b72a-dd3b-5f38-770f-69c633ff1efc/d0a62028-0a61-4c17-afc9-feb00e71450e_06_23_23_porto_iOS_65_02.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/92/54/269254bb-d96f-a794-7475-0bab656a6b19/8788e0ea-6ff1-4e58-89f5-170d3b9e5bf6_06_23_23_porto_iOS_65_03.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/1e/0e/891e0e82-e841-6db6-19fd-2eb2a30361ae/d712d4d0-759d-4bcc-b4fc-0e9eb6a9538a_06_23_23_porto_iOS_65_04.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/9a/b2/819ab2db-fd99-5ce2-10eb-66b6c686979d/e5d7facb-203a-4d79-8d5b-f6976e6d542e_06_23_23_porto_iOS_65_05.png/150x0w.png)
 
 ## [Shopcoopera](https://www.shopcoopera.com.br/)
 Developed Shopcoopera, implemented lastest mobile technologies (native).

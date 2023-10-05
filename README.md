@@ -186,11 +186,25 @@ Developed XP Investimentos, implemented lastest mobile technologies (native).
 ### Versions
 * [iOS](https://apps.apple.com/br/app/xp-investimentos/id1300713021)
 
+### Screenshots
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/55/10/3f/55103f1b-66d3-407d-ddad-2e34051a1ada/ee42d16b-8a30-4ae8-ae31-2d9d322f0e9f_08_17_22_xp_iOS_65_01.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d0/e8/5e/d0e85e54-01aa-fe96-973e-28699f37c7d3/6ac13f8c-06e6-4799-9a18-dc99e2227d17_08_17_22_xp_iOS_65_02.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/cd/84/06/cd8406fc-f515-fce0-d814-9aacfcabc9dd/f458e618-c7a9-4372-9fa2-2356bd37fd74_08_17_22_xp_iOS_65_03.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/72/23/d8/7223d81e-09b3-df04-ebfe-d52f0a283c3e/cefa9119-2443-4254-b5d1-00b63b66cd43_08_17_22_xp_iOS_65_04.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/00/73/48/007348de-cc36-7289-9de3-ccdbb35b0b62/d54708ac-f594-41fe-8e9e-a3ed0be45f36_08_17_22_xp_iOS_65_05.png/150x0w.png)
+
 ## [Porto: seguro, cartão, crédito](https://www.portoseguro.com.br/)
 Developed Porto, implemented lastest mobile technologies (native).
 
 ### Versions
 * [iOS](https://apps.apple.com/br/app/porto-seguro-cart%C3%A3o-cr%C3%A9dito/id1511026277)
+
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ## [Shopcoopera](https://www.shopcoopera.com.br/)
 Developed Shopcoopera, implemented lastest mobile technologies (native).

@@ -200,11 +200,11 @@ Developed Porto, implemented lastest mobile technologies (native).
 * [iOS](https://apps.apple.com/br/app/porto-seguro-cart%C3%A3o-cr%C3%A9dito/id1511026277)
 
 ### Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/90/75/72/9075729b-1a08-48c3-221e-9ff5e9707e36/32a7e19f-ef30-4bca-9e1a-1daedd57d747_06_23_23_porto_iOS_65_01.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/b4/b7/26b4b72a-dd3b-5f38-770f-69c633ff1efc/d0a62028-0a61-4c17-afc9-feb00e71450e_06_23_23_porto_iOS_65_02.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/26/92/54/269254bb-d96f-a794-7475-0bab656a6b19/8788e0ea-6ff1-4e58-89f5-170d3b9e5bf6_06_23_23_porto_iOS_65_03.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/1e/0e/891e0e82-e841-6db6-19fd-2eb2a30361ae/d712d4d0-759d-4bcc-b4fc-0e9eb6a9538a_06_23_23_porto_iOS_65_04.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/9a/b2/819ab2db-fd99-5ce2-10eb-66b6c686979d/e5d7facb-203a-4d79-8d5b-f6976e6d542e_06_23_23_porto_iOS_65_05.png/300x0w.png)
 
 ## [Shopcoopera](https://www.shopcoopera.com.br/)
 Developed Shopcoopera, implemented lastest mobile technologies (native).
@@ -212,11 +212,25 @@ Developed Shopcoopera, implemented lastest mobile technologies (native).
 ### Versions
 * [iOS](https://apps.apple.com/br/app/coopera/id1522048091)
 
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
+
 ## [SuperDigital](https://superdigital.com.br/)
 Developed Super Digital, implemented lastest mobile technologies (native).
 
 ### Versions
 * [iOS](https://apps.apple.com/br/app/superdigital/id1175387636)
+
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ## [Uber Conta](https://www.uber.com/)
 Developed Uber Conta, implemented lastest mobile technologies (native).
@@ -224,11 +238,25 @@ Developed Uber Conta, implemented lastest mobile technologies (native).
 ### Versions
 * [iOS](https://apps.apple.com/br/app/uber-conta/id1550784531)
 
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
+
 ## [Digio](https://www.digio.com.br/)
 Developed Digio, implemented lastest mobile technologies (native).
 
 ### Versions
 * [iOS](https://apps.apple.com/br/app/digio/id1128793569)
+
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ## [Remix](https://http://www.pepblast.com/)
 Developed Remix, implemented lastest mobile technologies (native).
@@ -236,6 +264,13 @@ Developed Remix, implemented lastest mobile technologies (native).
 ### Versions
 * [Android](https://play.google.com/store/apps/details?id=air.com.pepblast.remix)
 * [iOS](https://apps.apple.com/us/app/remix-social-video-pepblast-rx/id1214072467)
+
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ### Features
 * Complex Android application with native codes. Real-time photo and video manipulation integrated with leading social networks
@@ -248,6 +283,13 @@ Developed Remix, implemented lastest mobile technologies (native).
 ### Features
 * Complex SwiftUI application with native codes, manipulation integrated with leading social networks
 
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
+
 ## [cRIDE Driver](https://apps.apple.com/pt/app/cride-driver/id1516876472)
 
 ### Versions
@@ -256,11 +298,25 @@ Developed Remix, implemented lastest mobile technologies (native).
 ### Features
 * Complex SwiftUI application with native codes, manipulation integrated with leading social networks
 
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
+
 ## [DMCard](https://apps.apple.com/br/app/dmcard/id1160316619)
 Developed DMCard, implemented lastest mobile technologies (native).
 
 ### Versions
 * [iOS](https://apps.apple.com/br/app/dmcard/id1160316619)
+
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ## [‎Jequiti com Você](https://www.jequiticomvoce.com.br/)
 Developed Jequiti, implemented lastest mobile technologies (native).
@@ -268,6 +324,13 @@ Developed Jequiti, implemented lastest mobile technologies (native).
 ### Versions
 * [iOS](https://apps.apple.com/br/app/jequiti-com-voc%C3%AA/id1456016904)
 * [Android](https://play.google.com/store/apps/details?id=br.com.zapsac.jequitivoce)
+
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ## [PepBlast MP](https://http://www.pepblast.com/)
 Developed Remix, implemented lastest mobile technologies (native).
@@ -279,6 +342,13 @@ Developed Remix, implemented lastest mobile technologies (native).
 ### Features
 * Complex Android application with native codes. Real-time photo and video manipulation integrated with leading social networks
 
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
+
 ## [Jequiti com você](https://www.jequiti.com.br/)
 Developed and maintaining Jequiti iOS/Android, managed the team, implemented lastest mobile technologies.
 
@@ -286,9 +356,23 @@ Developed and maintaining Jequiti iOS/Android, managed the team, implemented las
 * [iOS](https://apps.apple.com/br/app/jequiti-com-voc%C3%AA/id1456016904)
 * [Android](https://play.google.com/store/apps/details?id=br.com.zapsac.jequitivoce&hl=pt_BR&gl=US)
 
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
+
 ## [ZapJequiti](https://www.jequiti.com.br/)
 
 * [Android](https://play.google.com/store/apps/details?id=br.com.jequiti.zapsac3&hl=pt_BR&gl=US)
+
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ## [Alta Ipsum](https://www.altaipsum.com)
 Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest mobile technologies.
@@ -297,6 +381,13 @@ Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest 
 * [iOS](https://itunes.apple.com/br/app/alta-ipsum/id975000539?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.joyjet.altaipsum)
 
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
+
 ## [Plantão Ativo](https://plantaoativo.com)
 Developed Plantao Ativo, managed the team, implemented lastest mobile technologies (native).
 
@@ -304,6 +395,12 @@ Developed Plantao Ativo, managed the team, implemented lastest mobile technologi
 * [Android](https://play.google.com/store/apps/details?id=br.com.indexdigital.plantaoativo)
 * [iOS](https://itunes.apple.com/br/app/plantao-ativo/id1126420396?mt=8)
 
+### Screenshots
+![]()
+![]()
+![]()
+![]()
+![]()
 
 ## Background Experience
 ### ActionScript Developer ( Before 2012)

@@ -213,11 +213,11 @@ Developed Shopcoopera, implemented lastest mobile technologies (native).
 * [iOS](https://apps.apple.com/br/app/coopera/id1522048091)
 
 ### Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e9/d3/65/e9d3655b-04b2-c8e8-ce97-2a87b098b088/c4e5daf0-7a57-455b-80fe-afc72b35382e_1_Coopera_iphone_6.7_1290x2796px1.jpg/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/bb/62/7cbb6209-c1a2-6a28-ce6d-e4c7a13445f3/7ac1f57f-21d3-4674-aa1f-fa652e3335fd_1_Coopera_iphone_6.7_1290x2796px2.jpg/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5f/89/06/5f8906be-1f64-3be1-70af-6cea58dff21b/bc45db2f-f0f5-4cba-9338-7319af9feef0_1_Coopera_iphone_6.7_1290x2796px3.jpg/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b0/7e/0a/b07e0a63-5439-ad48-172c-aad81b7809c8/784a85c8-fa00-44a1-830c-f548174dfb27_1_Coopera_iphone_6.7_1290x2796px4.jpg/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/58/97/ad/5897adc1-7333-4bac-e09d-1629e7726a00/c01ef93f-40ff-4141-8b58-ad525b5b3ec4_1_Coopera_iphone_6.7_1290x2796px5.jpg/150x0w.jpg)
 
 ## [SuperDigital](https://superdigital.com.br/)
 Developed Super Digital, implemented lastest mobile technologies (native).

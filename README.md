@@ -263,11 +263,11 @@ Developed Remix, implemented lastest mobile technologies (native).
 * [iOS](https://apps.apple.com/us/app/remix-social-video-pepblast-rx/id1214072467)
 
 ### Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6f/f9/ee/6ff9eec8-0cf5-abd2-c10c-5f269a3d8bc4/463e5d97-7429-4333-88a6-4bd7bc942230_IMG_2226.PNG/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/34/de/5e/34de5ecd-01d6-2c53-9a30-175ad7b449a1/7655d52e-53f4-48e5-a483-8b3b9faee83e_IMG_2241.PNG/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bb/38/55/bb3855a6-216e-4772-da19-ee189052f3f4/2616d0ae-2e65-455b-b18a-c166124228b8_IMG_2229.PNG/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/31/41/35/3141353c-b240-aced-250c-933284465b09/24566af8-eafd-4c76-a4b9-74674365af21_IMG_2230.PNG/150x0w.jpg)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/89/a8/ab/89a8abef-b59c-02b6-fc27-354fbd407dc5/b92973cd-c341-432d-86ec-3b9bca7f5f75_IMG_2233.PNG/150x0w.jpg)
 
 ### Features
 * Complex Android application with native codes. Real-time photo and video manipulation integrated with leading social networks

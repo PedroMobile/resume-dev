@@ -379,11 +379,11 @@ Developed and maintaining Alta Ipsum iOS, managed the team, implemented lastest 
 * [Android](https://play.google.com/store/apps/details?id=com.joyjet.altaipsum)
 
 ### Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f1/8a/92/f18a9233-975c-bcd5-f359-c1d817a9c6c6/pr_source.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/90/e1/dd90e1e0-625b-acbd-1c94-44d627d2615b/pr_source.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/77/ac/6e/77ac6e97-f1f2-1019-6b85-390f4335a55e/pr_source.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/12/bc/e9/12bce957-3f64-d1fb-4478-e9635c649b9c/pr_source.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/37/b1/94/37b194da-f33e-bef5-38c8-85072f14c87b/pr_source.png/150x0w.png)
 
 ## [Plantão Ativo](https://plantaoativo.com)
 Developed Plantao Ativo, managed the team, implemented lastest mobile technologies (native).

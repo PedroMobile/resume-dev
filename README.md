@@ -281,11 +281,10 @@ Developed Remix, implemented lastest mobile technologies (native).
 * Complex SwiftUI application with native codes, manipulation integrated with leading social networks
 
 ### Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/92/43/f3/9243f3b1-3c55-3a95-1bad-2d050d20ecc5/8c413d45-8851-4cef-b0a1-945e3a0a0300_JJ20200916_cRIDE_Screens_ClientApp_02.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/04/b7/20/04b720bc-81e4-069c-9824-d83418107686/580d1a09-e805-4e4b-8b76-b42c6199c9bd_JJ20200916_cRIDE_Screens_ClientApp_01.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/9c/c7/64/9cc764ad-a2e3-5496-d0ec-fc74fb5988e4/a64af3aa-fa3e-4ee4-9a3c-3d9593901354_JJ20200916_cRIDE_Screens_ClientApp_03.png/150x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d1/2e/97/d12e9767-1836-0f93-d363-0d81cfebc3e2/5088b230-3b4c-434f-93de-c23a2d2442e9_JJ20200916_cRIDE_Screens_ClientApp_04.png/150x0w.png)
 
 ## [cRIDE Driver](https://apps.apple.com/pt/app/cride-driver/id1516876472)
 

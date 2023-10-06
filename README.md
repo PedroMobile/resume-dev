@@ -393,11 +393,11 @@ Developed Plantao Ativo, managed the team, implemented lastest mobile technologi
 * [iOS](https://itunes.apple.com/br/app/plantao-ativo/id1126420396?mt=8)
 
 ### Screenshots
-![]()
-![]()
-![]()
-![]()
-![]()
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c7/7d/2e/c77d2ef1-9775-daff-3139-e1fb2395c2a8/156fc916-98a9-4a77-bbab-fc44b8cc4189_Frame_1.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2f/1e/43/2f1e4392-62dd-b178-12c9-228a8e33aec1/7b5fc077-00c6-4a0a-a79c-a09d2fe1e684_Frame_2.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a8/1b/a1/a81ba10a-3f0d-19b2-0f34-b91248fef97a/1542fe24-330d-44e1-8ad4-ea4b0956680f_Frame_3.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6b/97/ea/6b97eaa0-bee4-9db7-26b9-fd95f25794ac/94cad3c5-3809-4679-9b42-c61584d88334_Frame_5.png/300x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/80/25/a0/8025a035-9306-5263-c099-6ef80305c12d/9a8cdf7d-e4da-4842-ab10-aa49eae7373c_Frame_6.png/460x0w.png)
 
 ## Background Experience
 ### ActionScript Developer ( Before 2012)

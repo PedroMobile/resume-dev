@@ -15,6 +15,14 @@
 
 # Work Experience
 
+### Senior Android Developer (may-2022 - dez-2023)
+#### [Hub XP](https://hubxp.com.br/), São Caetano do Sul - SP, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Swift
+* Using Git for version control, revisions
+
 ### Senior iOS Developer (out-2022 - may-2023)
 #### [Indra](https://www.indracompany.com/pt-br/pais/brasil), Santo Amaro - SP, BR
 

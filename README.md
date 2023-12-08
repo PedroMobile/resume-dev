@@ -15,12 +15,20 @@
 
 # Work Experience
 
-### Senior Android Developer (may-2022 - dez-2023)
-#### [Hub XP](https://hubxp.com.br/), São Caetano do Sul - SP, BR
+### Senior iOS Developer (oct-2022 - dez-2023)
+#### [InMetrics](https://inmetrics.com.br/), São Caetano do Sul - SP, BR
 
 * Developing and maintaining iOS applications
 * Shipped code on projects with an agile, test-driven development
 * Extensive experience with Swift
+* Using Git for version control, revisions
+
+### Senior Android Developer (may-2022 - oct-2023)
+#### [Hub XP](https://hubxp.com.br/), São Caetano do Sul - SP, BR
+
+* Developing and maintaining iOS applications
+* Shipped code on projects with an agile, test-driven development
+* Extensive experience with Kotlin / Flutter
 * Using Git for version control, revisions
 
 ### Senior iOS Developer (out-2022 - may-2023)

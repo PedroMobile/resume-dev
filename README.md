@@ -115,57 +115,38 @@
 * XML
 
 # Skills
-* Java
-* iOS
-* Android
-* Kotlin
-* Flutter
-* React Native
-* Objective-C
-* Swift
-* SwiftUI
-* SwiftGen
-* XcodeGen
-* ViewCode
-* GitHub
-* CI/CD
-* RxSwift
-* Combine
-* Clean Architecture
-* Retrofit2
-* Dagger 
-* BDD
-* Material Design
-* Android Architecture Components
-* CI/CD
-* Firebase
-* AWS IoT MQTT
-* Adobe Photoshop
-* Mobile development (RESTful architecture)
-* Agile Development
-* Test Driven Development
-* Behavior Driven Development
-* Pragmatic Programming
-* Javascript
-* Actionscript
-* Charles
-* SOLID
-* MVP
-* MVVM
-* MVVMC
-* VIPER
-* CLEAN
-* MVC
-* GraphQL
-* REST
-* Figma
-* Jira
-* Scrum
-* Unit Tests
-* Snapshot Tests
 
-I am experienced with the following environments and software:
-SDK Dropbox, SDK Instagram, SDK Facebook, FFmpeg, AngularJS, Node.js, Ruby, Ruby On Rails, Python, Django, PHP, Linux, Ubuntu, Apache, Nginx, MySQL, PostgreSQL, SQlite, Git, Subversion, Newrelic, RVM, MVC, MVP, MVVM, SOLID, API Development, JSON, XML
+QUALIFICAÇÕES - Android
+
+* Experiência com desenvolvimento Android (Nativo);
+* Experiência com Git e Git Flow;
+* Amplos conhecimentos em Java e Kotlin;
+* Conhecimento e vivência com RESTFul;
+* Testes de interface e testes unitários.
+* Android Jetpack Components (ViewModel, Room, LiveData, Databinding, Navigation);
+* Conhecimento em UI customizada;
+* Conhecimento em arquiteturas móveis como MVP e MVVM;
+* Capacidade de trabalhar em times multidisciplinares e de se comunicar claramente com times de desenvolvimento, design, marketing e produtos;
+__________________________________________________________________________________
+QUALIFICAÇÕES - IOS
+
+* Swift 4.0+
+* Basico de objective c
+* Arquitetura mvvm-c
+* Coordinator.
+* Testes unitarios XCTest
+* Teste UI com KIF
+* Git
+* GitFlow
+* Auto Layout
+* Trabalhar com .xib
+* Conhecer criação de componentes
+* Bitbucket
+* Metodos Ageis (Scrum/Kanban)
+* Clean Code.
+* Integração Rest
+* Fabric
+* Pull Request e code review.
 
 # Projects
 

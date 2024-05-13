@@ -19,10 +19,10 @@ Ao longo dos anos, aprimorei meu conhecimento em arquiteturas de software, como 
 
 # Work Experience
 
-### Senior Android Developer (may-2023 - dez-2024)
-#### [Hub XP](https://hubxp.com.br/), São Caetano do Sul - SP, BR
+### Senior Android Developer (may-2023)
+#### [200DEV](https://200dev.com/), São Paulo - SP, BR
 
-* Trabalhei nas versões Android e iOS do app Medcel da Afya
+* Trabalhei nas versões Android e iOS do app Liberty Seguros
 
 ### Senior iOS Developer (out-2022 - may-2023)
 #### [Indra](https://www.indracompany.com/pt-br/pais/brasil), Santo Amaro - SP, BR

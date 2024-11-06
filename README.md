@@ -19,20 +19,95 @@ Ao longo dos anos, aprimorei meu conhecimento em arquiteturas de software, como 
 
 # Work Experience
 
-### Senior Android Developer (may-2023)
+### Senior Mobile Developer (jan-2024)
+#### [Compass UOL](https://compass.uol/pt/home/), Curitiba - PR, BR
+
+Atuei em projetos com foco em modularização, garantindo um desenvolvimento escalável e eficiente, além de melhorar fluxos críticos como signup e edição de perfil. Também implementei testes automatizados e fluxos de CI/CD para garantir a qualidade e agilidade nas entregas.
+
+Minhas principais atividades incluíam:
+
+* Modularização e Arquitetura: Desenvolvi módulos independentes para funcionalidades como cadastro e edição de perfil, facilitando a manutenção e o reuso de código entre diferentes projetos e equipes.
+
+* Otimização de Signup e Edição de Perfil: Implementei fluxos simplificados e seguros para cadastro de usuários e edição de informações pessoais, sempre focado na experiência do usuário e nas melhores práticas de UX.
+
+* Testes Automatizados e Qualidade de Código: Configurei e mantive uma suíte de testes automatizados (unitários e de integração), garantindo que as funcionalidades críticas fossem constantemente verificadas e permanecessem estáveis ao longo das versões.
+
+* CI/CD: Colaborei na implementação de pipelines de integração e entrega contínua (CI/CD), automatizando processos como builds, testes e deploys, o que acelerou o tempo de entrega e reduziu riscos de erro em produção.
+
+* Mentoria e Revisão de Código: Ofereci suporte técnico a desenvolvedores mais novos, promovendo boas práticas de código e arquiteturas escaláveis, além de realizar revisões para garantir a consistência e a qualidade das implementações.
+
+* Agilidade e Gestão de Projetos: Participei de cerimônias ágeis (scrum, kanban), auxiliando no planejamento, estimativas e acompanhamento do progresso das tarefas.
+
+> [!NOTE]
+> Essa experiência me permitiu construir soluções robustas, modulares e de alta qualidade, com um pipeline automatizado que acelerou o ciclo de desenvolvimento e entregas.
+
+### Senior Mobile Developer (may-2023 - jan-2024)
 #### [200DEV](https://200dev.com/), São Paulo - SP, BR
 
-* Trabalhei nas versões Android e iOS do app Liberty Seguros
+Atuei no desenvolvimento de soluções robustas para aplicativos em Flutter, iOS e Android nativo, com um foco específico na implementação e otimização do fluxo de pagamentos.
+
+Contribuí para a implementação de features estratégicas, além de melhorias em performance e usabilidade. 
+
+Minhas principais atividades incluíam:
+
+* Desenvolvimento e Arquitetura: Colaborei na criação e otimização de fluxos de pagamento seguros e escaláveis, garantindo uma experiência integrada e fluida em plataformas nativas e no Flutter.
+
+* Integração de APIs de Pagamento e Serviços: Integrei múltiplos métodos de pagamento e APIs financeiras, além de sistemas de autenticação e segurança (como Pix e métodos de autenticação em duas etapas), priorizando a conformidade e a segurança dos dados.
+
+* Planejamento e Design de Funcionalidades: Trabalhei em colaboração com os times de produto e design para definir requisitos técnicos e criar interfaces intuitivas, facilitando um fluxo de pagamento simples e eficiente para o usuário.
+
+* Código Limpo e Testes Automatizados: Escrevi código limpo, modular e escalável, com cobertura de testes unitários e de integração, assegurando a robustez e qualidade das entregas.
+
+* Mentoria e Revisão de Código: Realizei mentoria para desenvolvedores mais novos, promovendo boas práticas, revisando código e contribuindo para o desenvolvimento técnico do time.
+
+* Agilidade e Gestão de Projetos: Participei ativamente em cerimônias de metodologias ágeis (scrum, kanban), auxiliando na definição de metas, estimativas de prazos e acompanhamento do progresso das atividades.
+
+> [!NOTE]
+> Essa experiência me permitiu atuar em projetos de alto impacto no setor de pagamentos, sempre priorizando segurança, usabilidade e conformidade com regulamentações financeiras locais e internacionais.
 
 ### Senior iOS Developer (out-2022 - may-2023)
 #### [Indra](https://www.indracompany.com/pt-br/pais/brasil), Santo Amaro - SP, BR
 
-* Trabalhei no aplicativo iOS e Android do Banco do Brasil
+Atuei no desenvolvimento e aprimoramento do módulo de conta bancária, garantindo que as funcionalidades financeiras fossem seguras, intuitivas e integradas. Trabalhei em conjunto com times de produto e backend para desenvolver soluções robustas e escaláveis, sempre com foco em segurança e performance.
+
+Minhas principais atividades incluíam:
+
+* Desenvolvimento de Funcionalidades de Conta Bancária: Implementei funcionalidades essenciais para o gerenciamento de contas bancárias, incluindo consulta de saldo, extrato, transferência entre contas e integração com múltiplos serviços bancários.
+
+* Integração com APIs Bancárias: Trabalhei na integração de APIs bancárias e de sistemas financeiros, utilizando práticas de segurança para assegurar a confidencialidade e integridade dos dados sensíveis dos usuários.
+
+* Otimização de Experiência de Usuário: Colaborei com o time de design para criar uma experiência de usuário simples e fluida, especialmente em fluxos críticos como consulta de saldo e movimentações bancárias.
+
+* Testes Automatizados e Controle de Qualidade: Configurei e mantive testes unitários e de integração, assegurando a qualidade das funcionalidades financeiras e reduzindo o risco de erros em produção.
+
+* Implementação de Segurança e Compliance: Apliquei práticas de segurança, como criptografia de dados e autenticação de dois fatores, alinhadas às regulamentações financeiras e às melhores práticas do setor.
+
+* Suporte a CI/CD: Participei da criação de pipelines de CI/CD para automação de builds, testes e releases, garantindo que as atualizações fossem rápidas e confiáveis.
+
+> [!NOTE]
+> Essa experiência me permitiu aprimorar meu conhecimento em sistemas bancários e desenvolver soluções focadas em segurança e usabilidade para módulos financeiros.
 
 ### Senior iOS Developer (jul-2021 - set-2022)
 #### [XP Inc](https://www.xpinc.com/), São Paulo, BR
 
-* Atuei como desenvolvedor iOS Sr. Implementando features e testes automatizados
+Atuei com foco no fluxo de investimentos, liderando o desenvolvimento de aplicações financeiras e implementando features que otimizam a experiência do usuário em investimentos. Utilizei arquiteturas como Flutter para soluções multiplataforma e MVVM e VIPER para os desenvolvimentos nativos, garantindo uma estrutura escalável e de fácil manutenção.
+
+Minhas principais atividades incluíam:
+
+Desenvolvimento e Arquitetura: Colaborei no design e implementação de fluxos de investimento seguros, utilizando arquiteturas como Flutter, MVVM e VIPER para garantir a modularidade, a facilidade de teste e a performance das soluções.
+
+Integração de APIs Financeiras e Serviços de Investimento: Integrei múltiplas APIs de mercado financeiro e serviços de gestão de portfólio, otimizando o fluxo de informações e permitindo uma experiência de investimento ágil e confiável.
+
+* Planejamento e Design de Funcionalidades: Trabalhei em colaboração com times de produto e design para definir requisitos e criar interfaces intuitivas, facilitando a experiência do usuário no acompanhamento de investimentos, depósitos e retiradas.
+
+* Código Limpo e Testes Automatizados: Escrevi código modular e escalável, aplicando testes unitários e de integração que asseguraram a qualidade das entregas e a robustez do sistema.
+
+* Mentoria e Revisão de Código: Realizei mentoria para desenvolvedores mais novos, promovendo as melhores práticas de arquitetura e código e revisando implementações para garantir a qualidade das entregas.
+
+* Agilidade e Gestão de Projetos: Participei em cerimônias ágeis (scrum, kanban), contribuindo na definição de metas, estimativas de prazos e acompanhamento do progresso das atividades.
+
+> [!NOTE]
+> Essa experiência permitiu-me desenvolver soluções voltadas ao mercado de investimentos, priorizando segurança, usabilidade e conformidade com as regulamentações financeiras.
 
 ### Senior iOS Developer (dez-2020 - jun-2021)
 #### [GOK.digital](https://gok.digital/), São Paulo, BR
@@ -42,24 +117,29 @@ Ao longo dos anos, aprimorei meu conhecimento em arquiteturas de software, como 
 ### Senior Mobile Developer (jan-2018 - dez-2020)
 #### [Photozig](https://www.photozig.com/), Fortaleza/California, BR/USA
 
-* Trabalhei no aplicativo iOS e Android do App Remix. Implementando features, testes automatizados e configuração de infra
+Trabalhei na criação de aplicativos de rede social usando Flutter, iOS e Android nativo, com foco em funcionalidades de criação de vídeos dinâmicos em tempo real. O objetivo era permitir que os usuários combinassem fotos, vídeos e músicas para criar conteúdos interativos e únicos.
+
+Minhas principais atividades incluíam:
+
+* Desenvolvimento de Funcionalidades para Vídeos Dinâmicos: Implementei funcionalidades de edição e criação de vídeos usando tecnologias como OpenGL, AVFoundation (iOS), MediaCodec (Android), e bibliotecas de FFmpeg para manipulação de áudio e vídeo, permitindo que os usuários criassem conteúdos visuais em tempo real.
+
+* Integração de Biblioteca Multimídia: Utilize Flutter plugins e bibliotecas específicas para Android e iOS que suportam manipulação de mídia, efeitos visuais e filtros, possibilitando a criação de experiências de vídeo e áudio dinâmicas e interativas.
+
+* Experiência de Usuário em Tempo Real: Colaborei com o time de design para otimizar a interface e o fluxo de criação de conteúdos, garantindo uma experiência de usuário fluida e intuitiva, mesmo com processamento multimídia em tempo real.
+
+* Testes e Otimização de Performance: Realizei testes de performance e otimização, garantindo que o aplicativo mantivesse uma alta taxa de quadros (FPS) e reduzisse o consumo de bateria e recursos ao renderizar vídeos e aplicar efeitos em tempo real.
+
+* CI/CD e Deploy: Configurei pipelines de CI/CD para automação de builds e testes, o que permitiu uma entrega contínua e ágil de novas funcionalidades, com foco na estabilidade e na qualidade das atualizações.
+
+> [!NOTE]
+> Essa experiência me permitiu explorar a interseção entre redes sociais e multimídia em tempo real, combinando tecnologia e usabilidade para criar aplicativos inovadores e interativos.
 
 ### Senior Mobile Developer/Architect (jan-2013 - dez-2017)
 #### [Joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
 
 * Trabalhei como dev iOS e Android. Implementando apps, testes automatizados e configuração de infra, para diversos aplicativos
 
-### Senior Developer (abr-2011 - dez-2013)
-#### [101º Macaco](https://vimeo.com/gomonkey), Fortaleza, CE
-
-*  Trabalhei como dev iOS e Android. Implementando apps, testes automatizados e configuração de infra, para diversos aplicativos
-
-### Senior Web Developer (ago-2010 - mar-2011)
-#### [333 Propaganda](http://333comunicacao.com.br), Fortaleza, CE
-
-*  Trabalhei como dev iOS e Android. Implementando apps, testes automatizados e configuração de infra, para diversos aplicativos
-
-### Senior ActionScript Developer (fev-2007 - ago-2010)
+### Senior ActionScript Developer (fev-2007 - jan-2013)
 #### [Index Digital](http://www.indexdigital.com.br), Fortaleza, CE
 
 *  Trabalhei como dev iOS e Android. Implementando apps, testes automatizados e configuração de infra, para diversos aplicativos
@@ -77,6 +157,7 @@ Ao longo dos anos, aprimorei meu conhecimento em arquiteturas de software, como 
 # Skills
 * Java
 * iOS
+* Dart
 * Android
 * Kotlin
 * Flutter

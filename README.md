@@ -154,31 +154,31 @@ Minhas principais atividades incluíam:
 
 # Skills
 
-Experiência com gerenciamento de estado Bloc, Mobx, ou outros;
-Expertise com Server Driven UI;
-Vivência desenvolvimento de testes unitarios e de widget;
-Experiência Feature Flag ou Feature Toogle;
-Experiência com modularização utilizando Modular;
-Vivência com Logging;
-Experiência com MethodChannel entre Nativo e Flutter;
-Experiência sólida com Git;
-Experiência com Clean Arch e Clean Code;
-Conhecimento em Firebase;
-Conhecimento em Kotlin, Swift e Flutter;
-Experiência no uso de Web Services;
-Arquitetura de software (Clean Architecture, MVVM);
-Consumo de APIs RESTful com RxJavaX ou Coroutines;
-Domínio sobre os princípios do Solid, Design Patterns, TDD;
-Metodologias ágeis de desenvolvimento (Scrum, Kanban);
-Experiencia em desenvolvimento mobile em Flutter e Dart;
-Conhecimento sólido em desenvolvimento de aplicativos móveis, tanto para Android quanto para iOS.
-Conhecimento avançado em gerenciamento de estado (Provider, BLoC).
-Experiência em ferramenta de versionamento de código, como Git ;
-Familiaridade com o ciclo de vida de desenvolvimento de software, incluindo design, desenvolvimento, testes e implantação.
-Conhecimento em recursos da Firebase.
-Conhecimentos em alguma solução de mensageria (Kafka, PubSub, Rabbit e IBM MO);
-Conhecimentos em padrões de integração via APIs (restful e soap);
-Comunicação rápida e assertiva para trabalhar com times multidisciplinares e em equipe;
+* Experiência com gerenciamento de estado Bloc, Mobx, ou outros;
+* Expertise com Server Driven UI;
+* Vivência desenvolvimento de testes unitarios e de widget;
+* Experiência Feature Flag ou Feature Toogle;
+* Experiência com modularização utilizando Modular;
+* Vivência com Logging;
+* Experiência com MethodChannel entre Nativo e Flutter;
+* Experiência sólida com Git;
+* Experiência com Clean Arch e Clean Code;
+* Conhecimento em Firebase;
+* Conhecimento em Kotlin, Swift e Flutter;
+* Experiência no uso de Web Services;
+* Arquitetura de software (Clean Architecture, MVVM);
+* Consumo de APIs RESTful com RxJavaX ou Coroutines;
+* Domínio sobre os princípios do Solid, Design Patterns, TDD;
+* Metodologias ágeis de desenvolvimento (Scrum, Kanban);
+* Experiencia em desenvolvimento mobile em Flutter e Dart;
+* Conhecimento sólido em desenvolvimento de aplicativos móveis, tanto para Android quanto para iOS.
+* Conhecimento avançado em gerenciamento de estado (Provider, BLoC).
+* Experiência em ferramenta de versionamento de código, como Git ;
+* Familiaridade com o ciclo de vida de desenvolvimento de software, incluindo design, desenvolvimento, testes e implantação.
+* Conhecimento em recursos da Firebase.
+* Conhecimentos em alguma solução de mensageria (Kafka, PubSub, Rabbit e IBM MO);
+* Conhecimentos em padrões de integração via APIs (restful e soap);
+* Comunicação rápida e assertiva para trabalhar com times multidisciplinares e em equipe;
 
 # Projects
 

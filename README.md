@@ -8,9 +8,7 @@
 * **Whatsapp:** +5585999399618
 * **Website:** https://github.com/PedroMobile/resume-dev
 
-Desde 2011, trabalho como desenvolvedor mobile e tive a oportunidade de atuar com as principais tecnologias disponíveis no mercado. No universo Android, explorei o desenvolvimento nativo utilizando Java e Kotlin, criando aplicativos robustos e eficientes para dispositivos móveis. Na plataforma iOS, dominei o desenvolvimento nativo com Swift e Objective-C, garantindo a excelência e a compatibilidade dos aplicativos em dispositivos Apple. Além disso, adquiri experiência no desenvolvimento híbrido, utilizando frameworks como React Native e Flutter, oferecendo soluções multiplataforma de alto desempenho.
-
-Ao longo dos anos, aprimorei meu conhecimento em arquiteturas de software, como MVC (Model-View-Controller), MVVM (Model-View-ViewModel) e Clean Architecture. Essas abordagens me permitiram criar aplicativos escaláveis, com uma separação clara de responsabilidades e uma estrutura de código organizada e reutilizável. Estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento e experiência em projetos inovadores e de alta qualidade.
+Sou Pedro Henrique, desenvolvedor especializado em Mobile, com sólida experiência nacional e internacional em desenvolvimento Android e iOS, além de conhecimento aprofundado nas principais arquiteturas, como MVVM, MVC, Clean Architecture, e padrões de Flutter como BLoC e Provider. Minha abordagem é criar aplicativos escaláveis e de alta performance, com foco em interfaces intuitivas e na excelência da experiência do usuário. Busco uma oportunidade para aplicar meu conhecimento técnico e agregar valor com soluções inovadoras e de alta qualidade em projetos desafiadores.
 
 ## Education
 
@@ -155,50 +153,32 @@ Minhas principais atividades incluíam:
 * Trabalhei no desenvolvimento de sites, jogos educativos e apps
 
 # Skills
-* Java
-* iOS
-* Dart
-* Android
-* Kotlin
-* Flutter
-* React Native
-* Objective-C
-* Swift
-* SwiftUI
-* SwiftGen
-* XcodeGen
-* ViewCode
-* GitHub
-* CI/CD
-* RxSwift
-* Combine
-* Clean Architecture
-* Retrofit2
-* Dagger 
-* NodeJS
-* Android Architecture Components
-* Firebase
-* Mobile development (RESTful architecture)
-* Agile Development
-* Test Driven Development
-* Pragmatic Programming
-* Javascript
-* Actionscript
-* Charles
-* SOLID
-* MVP
-* MVVM
-* MVVMC
-* VIPER
-* CLEAN
-* MVC
-* GraphQL
-* REST
-* Figma
-* Jira
-* Scrum
-* Unit Tests
-* Snapshot Tests
+
+Experiência com gerenciamento de estado Bloc, Mobx, ou outros;
+Expertise com Server Driven UI;
+Vivência desenvolvimento de testes unitarios e de widget;
+Experiência Feature Flag ou Feature Toogle;
+Experiência com modularização utilizando Modular;
+Vivência com Logging;
+Experiência com MethodChannel entre Nativo e Flutter;
+Experiência sólida com Git;
+Experiência com Clean Arch e Clean Code;
+Conhecimento em Firebase;
+Conhecimento em Kotlin, Swift e Flutter;
+Experiência no uso de Web Services;
+Arquitetura de software (Clean Architecture, MVVM);
+Consumo de APIs RESTful com RxJavaX ou Coroutines;
+Domínio sobre os princípios do Solid, Design Patterns, TDD;
+Metodologias ágeis de desenvolvimento (Scrum, Kanban);
+Experiencia em desenvolvimento mobile em Flutter e Dart;
+Conhecimento sólido em desenvolvimento de aplicativos móveis, tanto para Android quanto para iOS.
+Conhecimento avançado em gerenciamento de estado (Provider, BLoC).
+Experiência em ferramenta de versionamento de código, como Git ;
+Familiaridade com o ciclo de vida de desenvolvimento de software, incluindo design, desenvolvimento, testes e implantação.
+Conhecimento em recursos da Firebase.
+Conhecimentos em alguma solução de mensageria (Kafka, PubSub, Rabbit e IBM MO);
+Conhecimentos em padrões de integração via APIs (restful e soap);
+Comunicação rápida e assertiva para trabalhar com times multidisciplinares e em equipe;
 
 # Projects
 

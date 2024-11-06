@@ -1,0 +1,1 @@
+pandoc README.md -o resume.pdf --pdf-engine=xelatex --variable geometry:margin=40pt --variable pagestyle=empty  

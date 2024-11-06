@@ -8,104 +8,101 @@
 * **Whatsapp:** +5585999399618
 * **Website:** https://github.com/PedroMobile/resume-dev
 
-Sou Pedro Henrique, desenvolvedor especializado em Mobile, com sólida experiência nacional e internacional em desenvolvimento Android e iOS, além de conhecimento aprofundado nas principais arquiteturas, como MVVM, MVC, Clean Architecture, e padrões de Flutter como BLoC e Provider. Minha abordagem é criar aplicativos escaláveis e de alta performance, com foco em interfaces intuitivas e na excelência da experiência do usuário. Busco uma oportunidade para aplicar meu conhecimento técnico e agregar valor com soluções inovadoras e de alta qualidade em projetos desafiadores.
+**Pedro Henrique** - Desenvolvedor Mobile sênior com paixão por criar experiências digitais inovadoras e intuitivas. Possuo sólida experiência em desenvolvimento Android e iOS, com foco em arquiteturas modernas como MVVM, Clean Architecture e BLoC. Sou especialista em construir aplicativos escaláveis e de alta performance, utilizando tecnologias como Flutter, Kotlin e Swift. Busco oportunidades desafiadoras para aplicar meus conhecimentos e agregar valor a projetos de impacto.
 
 ## Education
 
 * **Software Developer (2003 - 2005)** - [IFCE](http://ifce.edu.br), Fortaleza, BR
 * **Analysis and Systems Development (2015 - 2019)** - [Estácio](http://www.estacio.br), BR
 
-# Work Experience
+## Work Experience
 
 ### Senior Mobile Developer (jan-2024)
 #### [Compass UOL](https://compass.uol/pt/home/), Curitiba - PR, BR
+
 
 Atuei em projetos com foco em modularização, garantindo um desenvolvimento escalável e eficiente, além de melhorar fluxos críticos como signup e edição de perfil. Também implementei testes automatizados e fluxos de CI/CD para garantir a qualidade e agilidade nas entregas.
 
 Minhas principais atividades incluíam:
 
-* Modularização e Arquitetura: Desenvolvi módulos independentes para funcionalidades como cadastro e edição de perfil, facilitando a manutenção e o reuso de código entre diferentes projetos e equipes.
+* **Modularização e Arquitetura:** Desenvolvi módulos independentes para funcionalidades como cadastro e edição de perfil, facilitando a manutenção e o reuso de código entre diferentes projetos e equipes.
 
-* Otimização de Signup e Edição de Perfil: Implementei fluxos simplificados e seguros para cadastro de usuários e edição de informações pessoais, sempre focado na experiência do usuário e nas melhores práticas de UX.
+* **Otimização de Signup e Edição de Perfil:** Implementei fluxos simplificados e seguros para cadastro de usuários e edição de informações pessoais, sempre focado na experiência do usuário e nas melhores práticas de UX.
 
-* Testes Automatizados e Qualidade de Código: Configurei e mantive uma suíte de testes automatizados (unitários e de integração), garantindo que as funcionalidades críticas fossem constantemente verificadas e permanecessem estáveis ao longo das versões.
+* **Testes Automatizados e Qualidade de Código:** Configurei e mantive uma suíte de testes automatizados (unitários e de integração), garantindo que as funcionalidades críticas fossem constantemente verificadas e permanecessem estáveis ao longo das versões.
 
-* CI/CD: Colaborei na implementação de pipelines de integração e entrega contínua (CI/CD), automatizando processos como builds, testes e deploys, o que acelerou o tempo de entrega e reduziu riscos de erro em produção.
+* **CI/CD:** Colaborei na implementação de pipelines de integração e entrega contínua (CI/CD), automatizando processos como builds, testes e deploys, o que acelerou o tempo de entrega e reduziu riscos de erro em produção.
 
-* Mentoria e Revisão de Código: Ofereci suporte técnico a desenvolvedores mais novos, promovendo boas práticas de código e arquiteturas escaláveis, além de realizar revisões para garantir a consistência e a qualidade das implementações.
+* **Mentoria e Revisão de Código:** Ofereci suporte técnico a desenvolvedores mais novos, promovendo boas práticas de código e arquiteturas escaláveis, além de realizar revisões para garantir a consistência e a qualidade das implementações.
 
-* Agilidade e Gestão de Projetos: Participei de cerimônias ágeis (scrum, kanban), auxiliando no planejamento, estimativas e acompanhamento do progresso das tarefas.
+* **Agilidade e Gestão de Projetos:** Participei de cerimônias ágeis (scrum, kanban), auxiliando no planejamento, estimativas e acompanhamento do progresso das tarefas.
 
-> [!NOTE]
-> Essa experiência me permitiu construir soluções robustas, modulares e de alta qualidade, com um pipeline automatizado que acelerou o ciclo de desenvolvimento e entregas.
+Essa experiência me permitiu construir soluções robustas, modulares e de alta qualidade, com um pipeline automatizado que acelerou o ciclo de desenvolvimento e entregas.
 
 ### Senior Mobile Developer (may-2023 - jan-2024)
 #### [200DEV](https://200dev.com/), São Paulo - SP, BR
 
-Atuei no desenvolvimento de soluções robustas para aplicativos em Flutter, iOS e Android nativo, com um foco específico na implementação e otimização do fluxo de pagamentos.
+* Atuei no desenvolvimento de soluções robustas para aplicativos em Flutter, iOS e Android nativo, com um foco específico na implementação e otimização do fluxo de pagamentos.
 
 Contribuí para a implementação de features estratégicas, além de melhorias em performance e usabilidade. 
 
 Minhas principais atividades incluíam:
 
-* Desenvolvimento e Arquitetura: Colaborei na criação e otimização de fluxos de pagamento seguros e escaláveis, garantindo uma experiência integrada e fluida em plataformas nativas e no Flutter.
+* **Desenvolvimento e Arquitetura:** Colaborei na criação e otimização de fluxos de pagamento seguros e escaláveis, garantindo uma experiência integrada e fluida em plataformas nativas e no Flutter.
 
-* Integração de APIs de Pagamento e Serviços: Integrei múltiplos métodos de pagamento e APIs financeiras, além de sistemas de autenticação e segurança (como Pix e métodos de autenticação em duas etapas), priorizando a conformidade e a segurança dos dados.
+* **Integração de APIs de Pagamento e Serviços:** Integrei múltiplos métodos de pagamento e APIs financeiras, além de sistemas de autenticação e segurança (como Pix e métodos de autenticação em duas etapas), priorizando a conformidade e a segurança dos dados.
 
-* Planejamento e Design de Funcionalidades: Trabalhei em colaboração com os times de produto e design para definir requisitos técnicos e criar interfaces intuitivas, facilitando um fluxo de pagamento simples e eficiente para o usuário.
+* **Planejamento e Design de Funcionalidades:** Trabalhei em colaboração com os times de produto e design para definir requisitos técnicos e criar interfaces intuitivas, facilitando um fluxo de pagamento simples e eficiente para o usuário.
 
-* Código Limpo e Testes Automatizados: Escrevi código limpo, modular e escalável, com cobertura de testes unitários e de integração, assegurando a robustez e qualidade das entregas.
+* **Código Limpo e Testes Automatizados:** Escrevi código limpo, modular e escalável, com cobertura de testes unitários e de integração, assegurando a robustez e qualidade das entregas.
 
-* Mentoria e Revisão de Código: Realizei mentoria para desenvolvedores mais novos, promovendo boas práticas, revisando código e contribuindo para o desenvolvimento técnico do time.
+* **Mentoria e Revisão de Código:** Realizei mentoria para desenvolvedores mais novos, promovendo boas práticas, revisando código e contribuindo para o desenvolvimento técnico do time.
 
-* Agilidade e Gestão de Projetos: Participei ativamente em cerimônias de metodologias ágeis (scrum, kanban), auxiliando na definição de metas, estimativas de prazos e acompanhamento do progresso das atividades.
+* **Agilidade e Gestão de Projetos:** Participei ativamente em cerimônias de metodologias ágeis (scrum, kanban), auxiliando na definição de metas, estimativas de prazos e acompanhamento do progresso das atividades.
 
-> [!NOTE]
-> Essa experiência me permitiu atuar em projetos de alto impacto no setor de pagamentos, sempre priorizando segurança, usabilidade e conformidade com regulamentações financeiras locais e internacionais.
+Essa experiência me permitiu atuar em projetos de alto impacto no setor de pagamentos, sempre priorizando segurança, usabilidade e conformidade com regulamentações financeiras locais e internacionais.
 
 ### Senior iOS Developer (out-2022 - may-2023)
 #### [Indra](https://www.indracompany.com/pt-br/pais/brasil), Santo Amaro - SP, BR
 
-Atuei no desenvolvimento e aprimoramento do módulo de conta bancária, garantindo que as funcionalidades financeiras fossem seguras, intuitivas e integradas. Trabalhei em conjunto com times de produto e backend para desenvolver soluções robustas e escaláveis, sempre com foco em segurança e performance.
+* Atuei no desenvolvimento e aprimoramento do módulo de conta bancária, garantindo que as funcionalidades financeiras fossem seguras, intuitivas e integradas. Trabalhei em conjunto com times de produto e backend para desenvolver soluções robustas e escaláveis, sempre com foco em segurança e performance.
 
 Minhas principais atividades incluíam:
 
-* Desenvolvimento de Funcionalidades de Conta Bancária: Implementei funcionalidades essenciais para o gerenciamento de contas bancárias, incluindo consulta de saldo, extrato, transferência entre contas e integração com múltiplos serviços bancários.
+* **Desenvolvimento de Funcionalidades de Conta Bancária:** Implementei funcionalidades essenciais para o gerenciamento de contas bancárias, incluindo consulta de saldo, extrato, transferência entre contas e integração com múltiplos serviços bancários.
 
-* Integração com APIs Bancárias: Trabalhei na integração de APIs bancárias e de sistemas financeiros, utilizando práticas de segurança para assegurar a confidencialidade e integridade dos dados sensíveis dos usuários.
+* **Integração com APIs Bancárias:** Trabalhei na integração de APIs bancárias e de sistemas financeiros, utilizando práticas de segurança para assegurar a confidencialidade e integridade dos dados sensíveis dos usuários.
 
-* Otimização de Experiência de Usuário: Colaborei com o time de design para criar uma experiência de usuário simples e fluida, especialmente em fluxos críticos como consulta de saldo e movimentações bancárias.
+* **Otimização de Experiência de Usuário:** Colaborei com o time de design para criar uma experiência de usuário simples e fluida, especialmente em fluxos críticos como consulta de saldo e movimentações bancárias.
 
-* Testes Automatizados e Controle de Qualidade: Configurei e mantive testes unitários e de integração, assegurando a qualidade das funcionalidades financeiras e reduzindo o risco de erros em produção.
+* **Testes Automatizados e Controle de Qualidade:** Configurei e mantive testes unitários e de integração, assegurando a qualidade das funcionalidades financeiras e reduzindo o risco de erros em produção.
 
-* Implementação de Segurança e Compliance: Apliquei práticas de segurança, como criptografia de dados e autenticação de dois fatores, alinhadas às regulamentações financeiras e às melhores práticas do setor.
+* **Implementação de Segurança e Compliance:** Apliquei práticas de segurança, como criptografia de dados e autenticação de dois fatores, alinhadas às regulamentações financeiras e às melhores práticas do setor.
 
-* Suporte a CI/CD: Participei da criação de pipelines de CI/CD para automação de builds, testes e releases, garantindo que as atualizações fossem rápidas e confiáveis.
+* **Suporte a CI/CD:** Participei da criação de pipelines de CI/CD para automação de builds, testes e releases, garantindo que as atualizações fossem rápidas e confiáveis.
 
-> [!NOTE]
-> Essa experiência me permitiu aprimorar meu conhecimento em sistemas bancários e desenvolver soluções focadas em segurança e usabilidade para módulos financeiros.
+Essa experiência me permitiu aprimorar meu conhecimento em sistemas bancários e desenvolver soluções focadas em segurança e usabilidade para módulos financeiros.
 
 ### Senior iOS Developer (jul-2021 - set-2022)
 #### [XP Inc](https://www.xpinc.com/), São Paulo, BR
 
-Atuei com foco no fluxo de investimentos, liderando o desenvolvimento de aplicações financeiras e implementando features que otimizam a experiência do usuário em investimentos. Utilizei arquiteturas como Flutter para soluções multiplataforma e MVVM e VIPER para os desenvolvimentos nativos, garantindo uma estrutura escalável e de fácil manutenção.
+* Atuei com foco no fluxo de investimentos, liderando o desenvolvimento de aplicações financeiras e implementando features que otimizam a experiência do usuário em investimentos. Utilizei arquiteturas como Flutter para soluções multiplataforma e MVVM e VIPER para os desenvolvimentos nativos, garantindo uma estrutura escalável e de fácil manutenção.
 
 Minhas principais atividades incluíam:
 
 Desenvolvimento e Arquitetura: Colaborei no design e implementação de fluxos de investimento seguros, utilizando arquiteturas como Flutter, MVVM e VIPER para garantir a modularidade, a facilidade de teste e a performance das soluções.
 
-Integração de APIs Financeiras e Serviços de Investimento: Integrei múltiplas APIs de mercado financeiro e serviços de gestão de portfólio, otimizando o fluxo de informações e permitindo uma experiência de investimento ágil e confiável.
+* **Integração de APIs Financeiras e Serviços de Investimento:** Integrei múltiplas APIs de mercado financeiro e serviços de gestão de portfólio, otimizando o fluxo de informações e permitindo uma experiência de investimento ágil e confiável.
 
-* Planejamento e Design de Funcionalidades: Trabalhei em colaboração com times de produto e design para definir requisitos e criar interfaces intuitivas, facilitando a experiência do usuário no acompanhamento de investimentos, depósitos e retiradas.
+* **Planejamento e Design de Funcionalidades:** Trabalhei em colaboração com times de produto e design para definir requisitos e criar interfaces intuitivas, facilitando a experiência do usuário no acompanhamento de investimentos, depósitos e retiradas.
 
-* Código Limpo e Testes Automatizados: Escrevi código modular e escalável, aplicando testes unitários e de integração que asseguraram a qualidade das entregas e a robustez do sistema.
+* **Código Limpo e Testes Automatizados:** Escrevi código modular e escalável, aplicando testes unitários e de integração que asseguraram a qualidade das entregas e a robustez do sistema.
 
-* Mentoria e Revisão de Código: Realizei mentoria para desenvolvedores mais novos, promovendo as melhores práticas de arquitetura e código e revisando implementações para garantir a qualidade das entregas.
+* **Mentoria e Revisão de Código:** Realizei mentoria para desenvolvedores mais novos, promovendo as melhores práticas de arquitetura e código e revisando implementações para garantir a qualidade das entregas.
 
-* Agilidade e Gestão de Projetos: Participei em cerimônias ágeis (scrum, kanban), contribuindo na definição de metas, estimativas de prazos e acompanhamento do progresso das atividades.
+* **Agilidade e Gestão de Projetos:** Participei em cerimônias ágeis (scrum, kanban), contribuindo na definição de metas, estimativas de prazos e acompanhamento do progresso das atividades.
 
-> [!NOTE]
-> Essa experiência permitiu-me desenvolver soluções voltadas ao mercado de investimentos, priorizando segurança, usabilidade e conformidade com as regulamentações financeiras.
+Essa experiência permitiu-me desenvolver soluções voltadas ao mercado de investimentos, priorizando segurança, usabilidade e conformidade com as regulamentações financeiras.
 
 ### Senior iOS Developer (dez-2020 - jun-2021)
 #### [GOK.digital](https://gok.digital/), São Paulo, BR
@@ -115,22 +112,21 @@ Integração de APIs Financeiras e Serviços de Investimento: Integrei múltipla
 ### Senior Mobile Developer (jan-2018 - dez-2020)
 #### [Photozig](https://www.photozig.com/), Fortaleza/California, BR/USA
 
-Trabalhei na criação de aplicativos de rede social usando Flutter, iOS e Android nativo, com foco em funcionalidades de criação de vídeos dinâmicos em tempo real. O objetivo era permitir que os usuários combinassem fotos, vídeos e músicas para criar conteúdos interativos e únicos.
+* Trabalhei na criação de aplicativos de rede social usando Flutter, iOS e Android nativo, com foco em funcionalidades de criação de vídeos dinâmicos em tempo real. O objetivo era permitir que os usuários combinassem fotos, vídeos e músicas para criar conteúdos interativos e únicos.
 
 Minhas principais atividades incluíam:
 
-* Desenvolvimento de Funcionalidades para Vídeos Dinâmicos: Implementei funcionalidades de edição e criação de vídeos usando tecnologias como OpenGL, AVFoundation (iOS), MediaCodec (Android), e bibliotecas de FFmpeg para manipulação de áudio e vídeo, permitindo que os usuários criassem conteúdos visuais em tempo real.
+* **Desenvolvimento de Funcionalidades para Vídeos Dinâmicos:** Implementei funcionalidades de edição e criação de vídeos usando tecnologias como OpenGL, AVFoundation (iOS), MediaCodec (Android), e bibliotecas de FFmpeg para manipulação de áudio e vídeo, permitindo que os usuários criassem conteúdos visuais em tempo real.
 
-* Integração de Biblioteca Multimídia: Utilize Flutter plugins e bibliotecas específicas para Android e iOS que suportam manipulação de mídia, efeitos visuais e filtros, possibilitando a criação de experiências de vídeo e áudio dinâmicas e interativas.
+* **Integração de Biblioteca Multimídia:** Utilize Flutter plugins e bibliotecas específicas para Android e iOS que suportam manipulação de mídia, efeitos visuais e filtros, possibilitando a criação de experiências de vídeo e áudio dinâmicas e interativas.
 
-* Experiência de Usuário em Tempo Real: Colaborei com o time de design para otimizar a interface e o fluxo de criação de conteúdos, garantindo uma experiência de usuário fluida e intuitiva, mesmo com processamento multimídia em tempo real.
+* **Experiência de Usuário em Tempo Real:** Colaborei com o time de design para otimizar a interface e o fluxo de criação de conteúdos, garantindo uma experiência de usuário fluida e intuitiva, mesmo com processamento multimídia em tempo real.
 
-* Testes e Otimização de Performance: Realizei testes de performance e otimização, garantindo que o aplicativo mantivesse uma alta taxa de quadros (FPS) e reduzisse o consumo de bateria e recursos ao renderizar vídeos e aplicar efeitos em tempo real.
+* **Testes e Otimização de Performance:** Realizei testes de performance e otimização, garantindo que o aplicativo mantivesse uma alta taxa de quadros (FPS) e reduzisse o consumo de bateria e recursos ao renderizar vídeos e aplicar efeitos em tempo real.
 
-* CI/CD e Deploy: Configurei pipelines de CI/CD para automação de builds e testes, o que permitiu uma entrega contínua e ágil de novas funcionalidades, com foco na estabilidade e na qualidade das atualizações.
+* **CI/CD e Deploy:** Configurei pipelines de CI/CD para automação de builds e testes, o que permitiu uma entrega contínua e ágil de novas funcionalidades, com foco na estabilidade e na qualidade das atualizações.
 
-> [!NOTE]
-> Essa experiência me permitiu explorar a interseção entre redes sociais e multimídia em tempo real, combinando tecnologia e usabilidade para criar aplicativos inovadores e interativos.
+Essa experiência me permitiu explorar a interseção entre redes sociais e multimídia em tempo real, combinando tecnologia e usabilidade para criar aplicativos inovadores e interativos.
 
 ### Senior Mobile Developer/Architect (jan-2013 - dez-2017)
 #### [Joyjet](http://www.joyjet.com), Fortaleza/Paris, BR/FR
@@ -181,6 +177,20 @@ Minhas principais atividades incluíam:
 * Comunicação rápida e assertiva para trabalhar com times multidisciplinares e em equipe;
 
 # Projects
+
+## [Banco PagBank](https://pagseguro.uol.com.br/)
+Atuei em features de signup, investmento e design system
+
+### Versions
+* [iOS](https://apps.apple.com/br/app/banco-pagbank/id1186059012)
+
+### Screenshots
+
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/da/5f/dfda5ffd-3934-6b28-2851-6d9216bdf4f6/1635_cards_loja_app_apple-1290x2796_01_V2.png/100x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/ce/91/e9ce9130-cb49-0b02-9d2e-83dfa3f4be6c/2ae6f689-48a0-47e8-8af3-393de6febfd6_1635_cards_loja_app_apple-1290x2796_02.png/100x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/73/f1/94/73f194eb-dd01-01a2-d3f2-3c27561cf65c/33f41033-9065-4690-8c29-9d6bef5b6000_1635_cards_loja_app_apple-1290x2796_03.png/100x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/ca/de/6dcadea9-9586-d5dd-a66f-bc718a8f8753/e430e0e6-8a49-4ffe-916a-5e40f93ecf25_1635_cards_loja_app_apple-1290x2796_05.png/100x0w.png)
+![](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/21/27/0b212750-a08f-eae9-738d-f5028147a2fb/479ce49e-73e1-494d-b446-2b1278bd9a6b_1635_cards_loja_app_apple-1290x2796_06.png/100x0w.png)
 
 ## [Liberty Mobile](https://www.libertyseguros.com.br/)
 Desenvolvi todo o fluxo de pagamento usando cartâo de crédito, boleto e pix. Também fiz várias melhorias no app em geral.
